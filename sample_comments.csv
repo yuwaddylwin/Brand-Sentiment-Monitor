@@ -1,0 +1,201 @@
+id,timestamp,username,comment,source
+1,2025-10-26 19:14:23,user1,Terrible experience — item arrived damaged and support is useless.,YouTube
+2,2025-10-26 21:17:23,user2,Decent price but packaging was poor.,Twitter
+3,2025-10-26 23:20:23,user3,"Amazing customer service, they resolved my issue quickly.",Instagram
+4,2025-10-27 01:23:23,user4,"Ordered twice, both times delayed. Not happy.",Shopee
+5,2025-10-27 03:26:23,user5,Product doesn't match description. Very disappointed.,Facebook
+6,2025-10-27 05:29:23,user6,Great value for money. Highly recommend AcmeShop!,YouTube
+7,2025-10-27 07:32:23,user7,"Support replied after 5 days, unacceptable.",Twitter
+8,2025-10-27 09:35:23,user8,Refund processed promptly. Thank you!,Instagram
+9,2025-10-27 11:38:23,user9,Shipping was fast but product quality is average.,Shopee
+10,2025-10-27 13:41:23,user10,Worst shopping experience ever. Will never buy again.,Facebook
+11,2025-10-27 15:44:23,user11,Amazing product! Exceeded expectations.,YouTube
+12,2025-10-27 17:47:23,user12,Delivery person was rude. Not pleased.,Twitter
+13,2025-10-27 19:50:23,user13,Quick delivery and easy return process.,Instagram
+14,2025-10-27 21:53:23,user14,"The app crashed during checkout, frustrating.",Shopee
+15,2025-10-27 23:56:23,user15,Excellent! The color was perfect and fits well.,Facebook
+16,2025-10-28 01:59:23,user16,Received wrong item — support is helping though.,YouTube
+17,2025-10-28 04:02:23,user17,"Packaging saved the product from damage, good job.",Twitter
+18,2025-10-28 06:05:23,user18,Late delivery but customer service gave a voucher.,Instagram
+19,2025-10-28 08:08:23,user19,Scam! I never received my order.,Shopee
+20,2025-10-28 10:11:23,user20,I love AcmeShop! Fast delivery and great product quality.,Facebook
+21,2025-10-28 12:14:23,user21,Terrible experience — item arrived damaged and support is useless.,YouTube
+22,2025-10-28 14:17:23,user22,Decent price but packaging was poor.,Twitter
+23,2025-10-28 16:20:23,user23,"Amazing customer service, they resolved my issue quickly.",Instagram
+24,2025-10-28 18:23:23,user24,"Ordered twice, both times delayed. Not happy.",Shopee
+25,2025-10-28 20:26:23,user25,Product doesn't match description. Very disappointed.,Facebook
+26,2025-10-28 22:29:23,user26,Great value for money. Highly recommend AcmeShop!,YouTube
+27,2025-10-29 00:32:23,user27,"Support replied after 5 days, unacceptable.",Twitter
+28,2025-10-29 02:35:23,user28,Refund processed promptly. Thank you!,Instagram
+29,2025-10-29 04:38:23,user29,Shipping was fast but product quality is average.,Shopee
+30,2025-10-29 06:41:23,user30,Worst shopping experience ever. Will never buy again.,Facebook
+31,2025-10-29 08:44:23,user31,Amazing product! Exceeded expectations.,YouTube
+32,2025-10-29 10:47:23,user32,Delivery person was rude. Not pleased.,Twitter
+33,2025-10-29 12:50:23,user33,Quick delivery and easy return process.,Instagram
+34,2025-10-29 14:53:23,user34,"The app crashed during checkout, frustrating.",Shopee
+35,2025-10-29 16:56:23,user35,Excellent! The color was perfect and fits well.,Facebook
+36,2025-10-29 18:59:23,user36,Received wrong item — support is helping though.,YouTube
+37,2025-10-29 21:02:23,user37,"Packaging saved the product from damage, good job.",Twitter
+38,2025-10-29 23:05:23,user38,Late delivery but customer service gave a voucher.,Instagram
+39,2025-10-30 01:08:23,user39,Scam! I never received my order.,Shopee
+40,2025-10-30 03:11:23,user40,I love AcmeShop! Fast delivery and great product quality.,Facebook
+41,2025-10-30 05:14:23,user41,Terrible experience — item arrived damaged and support is useless.,YouTube
+42,2025-10-30 07:17:23,user42,Decent price but packaging was poor.,Twitter
+43,2025-10-30 09:20:23,user43,"Amazing customer service, they resolved my issue quickly.",Instagram
+44,2025-10-30 11:23:23,user44,"Ordered twice, both times delayed. Not happy.",Shopee
+45,2025-10-30 13:26:23,user45,Product doesn't match description. Very disappointed.,Facebook
+46,2025-10-30 15:29:23,user46,Great value for money. Highly recommend AcmeShop!,YouTube
+47,2025-10-30 17:32:23,user0,"Support replied after 5 days, unacceptable.",Twitter
+48,2025-10-30 19:35:23,user1,Refund processed promptly. Thank you!,Instagram
+49,2025-10-30 21:38:23,user2,Shipping was fast but product quality is average.,Shopee
+50,2025-10-30 23:41:23,user3,Worst shopping experience ever. Will never buy again.,Facebook
+51,2025-10-31 01:44:23,user4,Amazing product! Exceeded expectations.,YouTube
+52,2025-10-31 03:47:23,user5,Delivery person was rude. Not pleased.,Twitter
+53,2025-10-31 05:50:23,user6,Quick delivery and easy return process.,Instagram
+54,2025-10-31 07:53:23,user7,"The app crashed during checkout, frustrating.",Shopee
+55,2025-10-31 09:56:23,user8,Excellent! The color was perfect and fits well.,Facebook
+56,2025-10-31 11:59:23,user9,Received wrong item — support is helping though.,YouTube
+57,2025-10-31 14:02:23,user10,"Packaging saved the product from damage, good job.",Twitter
+58,2025-10-31 16:05:23,user11,Late delivery but customer service gave a voucher.,Instagram
+59,2025-10-31 18:08:23,user12,Scam! I never received my order.,Shopee
+60,2025-10-31 20:11:23,user13,I love AcmeShop! Fast delivery and great product quality.,Facebook
+61,2025-10-31 22:14:23,user14,Terrible experience — item arrived damaged and support is useless.,YouTube
+62,2025-11-01 00:17:23,user15,Decent price but packaging was poor.,Twitter
+63,2025-11-01 02:20:23,user16,"Amazing customer service, they resolved my issue quickly.",Instagram
+64,2025-11-01 04:23:23,user17,"Ordered twice, both times delayed. Not happy.",Shopee
+65,2025-11-01 06:26:23,user18,Product doesn't match description. Very disappointed.,Facebook
+66,2025-11-01 08:29:23,user19,Great value for money. Highly recommend AcmeShop!,YouTube
+67,2025-11-01 10:32:23,user20,"Support replied after 5 days, unacceptable.",Twitter
+68,2025-11-01 12:35:23,user21,Refund processed promptly. Thank you!,Instagram
+69,2025-11-01 14:38:23,user22,Shipping was fast but product quality is average.,Shopee
+70,2025-11-01 16:41:23,user23,Worst shopping experience ever. Will never buy again.,Facebook
+71,2025-11-01 18:44:23,user24,Amazing product! Exceeded expectations.,YouTube
+72,2025-11-01 20:47:23,user25,Delivery person was rude. Not pleased.,Twitter
+73,2025-11-01 22:50:23,user26,Quick delivery and easy return process.,Instagram
+74,2025-11-02 00:53:23,user27,"The app crashed during checkout, frustrating.",Shopee
+75,2025-11-02 02:56:23,user28,Excellent! The color was perfect and fits well.,Facebook
+76,2025-11-02 04:59:23,user29,Received wrong item — support is helping though.,YouTube
+77,2025-11-02 07:02:23,user30,"Packaging saved the product from damage, good job.",Twitter
+78,2025-11-02 09:05:23,user31,Late delivery but customer service gave a voucher.,Instagram
+79,2025-11-02 11:08:23,user32,Scam! I never received my order.,Shopee
+80,2025-11-02 13:11:23,user33,I love AcmeShop! Fast delivery and great product quality.,Facebook
+81,2025-11-02 15:14:23,user34,Terrible experience — item arrived damaged and support is useless.,YouTube
+82,2025-11-02 17:17:23,user35,Decent price but packaging was poor.,Twitter
+83,2025-11-02 19:20:23,user36,"Amazing customer service, they resolved my issue quickly.",Instagram
+84,2025-11-02 21:23:23,user37,"Ordered twice, both times delayed. Not happy.",Shopee
+85,2025-11-02 23:26:23,user38,Product doesn't match description. Very disappointed.,Facebook
+86,2025-11-03 01:29:23,user39,Great value for money. Highly recommend AcmeShop!,YouTube
+87,2025-11-03 03:32:23,user40,"Support replied after 5 days, unacceptable.",Twitter
+88,2025-11-03 05:35:23,user41,Refund processed promptly. Thank you!,Instagram
+89,2025-11-03 07:38:23,user42,Shipping was fast but product quality is average.,Shopee
+90,2025-11-03 09:41:23,user43,Worst shopping experience ever. Will never buy again.,Facebook
+91,2025-11-03 11:44:23,user44,Amazing product! Exceeded expectations.,YouTube
+92,2025-11-03 13:47:23,user45,Delivery person was rude. Not pleased.,Twitter
+93,2025-11-03 15:50:23,user46,Quick delivery and easy return process.,Instagram
+94,2025-11-03 17:53:23,user0,"The app crashed during checkout, frustrating.",Shopee
+95,2025-11-03 19:56:23,user1,Excellent! The color was perfect and fits well.,Facebook
+96,2025-11-03 21:59:23,user2,Received wrong item — support is helping though.,YouTube
+97,2025-11-04 00:02:23,user3,"Packaging saved the product from damage, good job.",Twitter
+98,2025-11-04 02:05:23,user4,Late delivery but customer service gave a voucher.,Instagram
+99,2025-11-04 04:08:23,user5,Scam! I never received my order.,Shopee
+100,2025-11-04 06:11:23,user6,I love AcmeShop! Fast delivery and great product quality.,Facebook
+101,2025-11-04 08:14:23,user7,Terrible experience — item arrived damaged and support is useless.,YouTube
+102,2025-11-04 10:17:23,user8,Decent price but packaging was poor.,Twitter
+103,2025-11-04 12:20:23,user9,"Amazing customer service, they resolved my issue quickly.",Instagram
+104,2025-11-04 14:23:23,user10,"Ordered twice, both times delayed. Not happy.",Shopee
+105,2025-11-04 16:26:23,user11,Product doesn't match description. Very disappointed.,Facebook
+106,2025-11-04 18:29:23,user12,Great value for money. Highly recommend AcmeShop!,YouTube
+107,2025-11-04 20:32:23,user13,"Support replied after 5 days, unacceptable.",Twitter
+108,2025-11-04 22:35:23,user14,Refund processed promptly. Thank you!,Instagram
+109,2025-11-05 00:38:23,user15,Shipping was fast but product quality is average.,Shopee
+110,2025-11-05 02:41:23,user16,Worst shopping experience ever. Will never buy again.,Facebook
+111,2025-11-05 04:44:23,user17,Amazing product! Exceeded expectations.,YouTube
+112,2025-11-05 06:47:23,user18,Delivery person was rude. Not pleased.,Twitter
+113,2025-11-05 08:50:23,user19,Quick delivery and easy return process.,Instagram
+114,2025-11-05 10:53:23,user20,"The app crashed during checkout, frustrating.",Shopee
+115,2025-11-05 12:56:23,user21,Excellent! The color was perfect and fits well.,Facebook
+116,2025-11-05 14:59:23,user22,Received wrong item — support is helping though.,YouTube
+117,2025-11-05 17:02:23,user23,"Packaging saved the product from damage, good job.",Twitter
+118,2025-11-05 19:05:23,user24,Late delivery but customer service gave a voucher.,Instagram
+119,2025-11-05 21:08:23,user25,Scam! I never received my order.,Shopee
+120,2025-11-05 23:11:23,user26,I love AcmeShop! Fast delivery and great product quality.,Facebook
+121,2025-11-06 01:14:23,user27,Terrible experience — item arrived damaged and support is useless.,YouTube
+122,2025-11-06 03:17:23,user28,Decent price but packaging was poor.,Twitter
+123,2025-11-06 05:20:23,user29,"Amazing customer service, they resolved my issue quickly.",Instagram
+124,2025-11-06 07:23:23,user30,"Ordered twice, both times delayed. Not happy.",Shopee
+125,2025-11-06 09:26:23,user31,Product doesn't match description. Very disappointed.,Facebook
+126,2025-11-06 11:29:23,user32,Great value for money. Highly recommend AcmeShop!,YouTube
+127,2025-11-06 13:32:23,user33,"Support replied after 5 days, unacceptable.",Twitter
+128,2025-11-06 15:35:23,user34,Refund processed promptly. Thank you!,Instagram
+129,2025-11-06 17:38:23,user35,Shipping was fast but product quality is average.,Shopee
+130,2025-11-06 19:41:23,user36,Worst shopping experience ever. Will never buy again.,Facebook
+131,2025-11-06 21:44:23,user37,Amazing product! Exceeded expectations.,YouTube
+132,2025-11-06 23:47:23,user38,Delivery person was rude. Not pleased.,Twitter
+133,2025-11-07 01:50:23,user39,Quick delivery and easy return process.,Instagram
+134,2025-11-07 03:53:23,user40,"The app crashed during checkout, frustrating.",Shopee
+135,2025-11-07 05:56:23,user41,Excellent! The color was perfect and fits well.,Facebook
+136,2025-11-07 07:59:23,user42,Received wrong item — support is helping though.,YouTube
+137,2025-11-07 10:02:23,user43,"Packaging saved the product from damage, good job.",Twitter
+138,2025-11-07 12:05:23,user44,Late delivery but customer service gave a voucher.,Instagram
+139,2025-11-07 14:08:23,user45,Scam! I never received my order.,Shopee
+140,2025-11-07 16:11:23,user46,I love AcmeShop! Fast delivery and great product quality.,Facebook
+141,2025-11-07 18:14:23,user0,Terrible experience — item arrived damaged and support is useless.,YouTube
+142,2025-11-07 20:17:23,user1,Decent price but packaging was poor.,Twitter
+143,2025-11-07 22:20:23,user2,"Amazing customer service, they resolved my issue quickly.",Instagram
+144,2025-11-08 00:23:23,user3,"Ordered twice, both times delayed. Not happy.",Shopee
+145,2025-11-08 02:26:23,user4,Product doesn't match description. Very disappointed.,Facebook
+146,2025-11-08 04:29:23,user5,Great value for money. Highly recommend AcmeShop!,YouTube
+147,2025-11-08 06:32:23,user6,"Support replied after 5 days, unacceptable.",Twitter
+148,2025-11-08 08:35:23,user7,Refund processed promptly. Thank you!,Instagram
+149,2025-11-08 10:38:23,user8,Shipping was fast but product quality is average.,Shopee
+150,2025-11-08 12:41:23,user9,Worst shopping experience ever. Will never buy again.,Facebook
+151,2025-11-08 14:44:23,user10,Amazing product! Exceeded expectations.,YouTube
+152,2025-11-08 16:47:23,user11,Delivery person was rude. Not pleased.,Twitter
+153,2025-11-08 18:50:23,user12,Quick delivery and easy return process.,Instagram
+154,2025-11-08 20:53:23,user13,"The app crashed during checkout, frustrating.",Shopee
+155,2025-11-08 22:56:23,user14,Excellent! The color was perfect and fits well.,Facebook
+156,2025-11-09 00:59:23,user15,Received wrong item — support is helping though.,YouTube
+157,2025-11-09 03:02:23,user16,"Packaging saved the product from damage, good job.",Twitter
+158,2025-11-09 05:05:23,user17,Late delivery but customer service gave a voucher.,Instagram
+159,2025-11-09 07:08:23,user18,Scam! I never received my order.,Shopee
+160,2025-11-09 09:11:23,user19,I love AcmeShop! Fast delivery and great product quality.,Facebook
+161,2025-11-09 11:14:23,user20,Terrible experience — item arrived damaged and support is useless.,YouTube
+162,2025-11-09 13:17:23,user21,Decent price but packaging was poor.,Twitter
+163,2025-11-09 15:20:23,user22,"Amazing customer service, they resolved my issue quickly.",Instagram
+164,2025-11-09 17:23:23,user23,"Ordered twice, both times delayed. Not happy.",Shopee
+165,2025-11-09 19:26:23,user24,Product doesn't match description. Very disappointed.,Facebook
+166,2025-11-09 21:29:23,user25,Great value for money. Highly recommend AcmeShop!,YouTube
+167,2025-11-09 23:32:23,user26,"Support replied after 5 days, unacceptable.",Twitter
+168,2025-11-10 01:35:23,user27,Refund processed promptly. Thank you!,Instagram
+169,2025-11-10 03:38:23,user28,Shipping was fast but product quality is average.,Shopee
+170,2025-11-10 05:41:23,user29,Worst shopping experience ever. Will never buy again.,Facebook
+171,2025-11-10 07:44:23,user30,Amazing product! Exceeded expectations.,YouTube
+172,2025-11-10 09:47:23,user31,Delivery person was rude. Not pleased.,Twitter
+173,2025-11-10 11:50:23,user32,Quick delivery and easy return process.,Instagram
+174,2025-11-10 13:53:23,user33,"The app crashed during checkout, frustrating.",Shopee
+175,2025-11-10 15:56:23,user34,Excellent! The color was perfect and fits well.,Facebook
+176,2025-11-10 17:59:23,user35,Received wrong item — support is helping though.,YouTube
+177,2025-11-10 20:02:23,user36,"Packaging saved the product from damage, good job.",Twitter
+178,2025-11-10 22:05:23,user37,Late delivery but customer service gave a voucher.,Instagram
+179,2025-11-11 00:08:23,user38,Scam! I never received my order.,Shopee
+180,2025-11-11 02:11:23,user39,I love AcmeShop! Fast delivery and great product quality.,Facebook
+181,2025-11-11 04:14:23,user40,Terrible experience — item arrived damaged and support is useless.,YouTube
+182,2025-11-11 06:17:23,user41,Decent price but packaging was poor.,Twitter
+183,2025-11-11 08:20:23,user42,"Amazing customer service, they resolved my issue quickly.",Instagram
+184,2025-11-11 10:23:23,user43,"Ordered twice, both times delayed. Not happy.",Shopee
+185,2025-11-11 12:26:23,user44,Product doesn't match description. Very disappointed.,Facebook
+186,2025-11-11 14:29:23,user45,Great value for money. Highly recommend AcmeShop!,YouTube
+187,2025-11-11 16:32:23,user46,"Support replied after 5 days, unacceptable.",Twitter
+188,2025-11-11 18:35:23,user0,Refund processed promptly. Thank you!,Instagram
+189,2025-11-11 20:38:23,user1,Shipping was fast but product quality is average.,Shopee
+190,2025-11-11 22:41:23,user2,Worst shopping experience ever. Will never buy again.,Facebook
+191,2025-11-12 00:44:23,user3,Amazing product! Exceeded expectations.,YouTube
+192,2025-11-12 02:47:23,user4,Delivery person was rude. Not pleased.,Twitter
+193,2025-11-12 04:50:23,user5,Quick delivery and easy return process.,Instagram
+194,2025-11-12 06:53:23,user6,"The app crashed during checkout, frustrating.",Shopee
+195,2025-11-12 08:56:23,user7,Excellent! The color was perfect and fits well.,Facebook
+196,2025-11-12 10:59:23,user8,Received wrong item — support is helping though.,YouTube
+197,2025-11-12 13:02:23,user9,"Packaging saved the product from damage, good job.",Twitter
+198,2025-11-12 15:05:23,user10,Late delivery but customer service gave a voucher.,Instagram
+199,2025-11-12 17:08:23,user11,Scam! I never received my order.,Shopee
+200,2025-11-12 19:11:23,user12,I love AcmeShop! Fast delivery and great product quality.,Facebook
