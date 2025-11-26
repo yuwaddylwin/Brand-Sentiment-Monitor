@@ -31,4 +31,4 @@ detects spikes in negative sentiment, and suggests simple actions.
 
 ## Notes
 - You can replace `sample_comments.csv` with your own CSV. The app expects columns: `id,timestamp,username,comment,source`
-- VADER works best on English text. For other languages, consider multilingual models (HuggingFace) but they require network access.
+- VADER works best on English text. For other languages, consider multilingual models (HuggingFace) but they require network access.# Brand-Sentiment-Monitor
